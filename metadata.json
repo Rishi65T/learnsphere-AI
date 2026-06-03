@@ -1,0 +1,6 @@
+{
+  "name": "LearnSphere AI",
+  "description": "An AI-powered E-Learning Recommendation Platform with personalized learning paths, smart quizzes, and a chatbot tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
